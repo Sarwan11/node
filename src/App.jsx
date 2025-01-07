@@ -17,6 +17,7 @@ const App = () => {
         className="bg-red-700 px-5 py-3 rounded-lg font-bold text-xl">
         The count is {count}.
       </button>
+      <p>we are the national </p>
     </div>
   );
 };
